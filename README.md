@@ -44,4 +44,5 @@ Việc triển khai nhiều mô hình trong cùng một file notebook mang lại
 ### 2. Điều chỉnh màu sắc Confusion Matrix
 #### Lý do điều chỉnh
 - Thầy hướng dẫn tiểu luận khuyên em nên đổi màu sắc của confusion matrix để khi in ra dễ đọc hơn ạ.
+  
 *Lưu ý: Việc điều chỉnh này chỉ ảnh hưởng đến cách hiển thị kết quả, không ảnh hưởng đến kết quả đánh giá của các mô hình.*
