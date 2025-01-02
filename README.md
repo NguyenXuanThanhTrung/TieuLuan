@@ -40,7 +40,7 @@ Việc triển khai nhiều mô hình trong cùng một file notebook mang lại
 - **Cấu trúc rõ ràng**: Tất cả các thử nghiệm được tổ chức trong một nơi
 - **Dễ thêm mô hình mới**: Có thể nhanh chóng thêm và thử nghiệm các mô hình mới
 - **Quản lý phiên bản**: Dễ dàng theo dõi và kiểm soát các thay đổi
-- 
+  
 ### 2. Điều chỉnh màu sắc Confusion Matrix
 #### Lý do điều chỉnh
 - Thầy hướng dẫn tiểu luận khuyên em nên đổi màu sắc của confusion matrix để khi in ra dễ đọc hơn ạ.
